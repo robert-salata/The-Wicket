@@ -7,7 +7,9 @@ The game is still in development, but first chapter "Subjection" is completed an
 
 # Download
 The Wicket: Chapter One can be dowloaded from Google Drive: 
+
 [Download The Wicket: Chapter One](https://drive.google.com/open?id=0BxibG6wPBD5gfjZTUThZXzdTOEtvdHZPazRYek1SU2oybFJ1aXZYaVVPYTJBdC1WUFg2elk)
+
 To launch the game, extract the archive and open The Wicket.exe file.
 
 # Technical notes

@@ -6,7 +6,9 @@ The Wicket is a 2D puzzle-adventure game kept in dark, survival horror style. Ga
 The game is still in development, but first chapter "Subjection" is completed and open for beta-testing.
 
 # Download
-The Wicket: Chapter One can be dowloaded from the repository: The Wicket.zip. To launch the game, extract the archive and open The Wicket.exe file.
+The Wicket: Chapter One can be dowloaded from Google Drive: 
+[Download The Wicket: Chapter One](https://drive.google.com/open?id=0BxibG6wPBD5gfjZTUThZXzdTOEtvdHZPazRYek1SU2oybFJ1aXZYaVVPYTJBdC1WUFg2elk)
+To launch the game, extract the archive and open The Wicket.exe file.
 
 # Technical notes
 The game is based on DirectX 11 engine and supports **only Windows systems**. All necessary libraries are included in archive. 

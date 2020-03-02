@@ -12,12 +12,12 @@ The game is still in development, but first chapter "Subjection" is completed an
 The Wicket: Chapter One can be dowloaded from the repository: The Wicket.zip. To launch the game, extract the archive and open The Wicket.exe file.
 
 ## Gallery
-![Intro](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%201.png)
+![Intro](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%209.png)
 ![Intro](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%203.png)
 ![Intro](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%204.png)
+![Intro](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%201.png)
 ![Intro](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%206.png)
 ![Intro](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%207.png)
 ![Intro](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%208.png)
-![Intro](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%209.png)
 
 

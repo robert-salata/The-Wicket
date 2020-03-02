@@ -14,14 +14,14 @@ The game is based on DirectX 11 engine and supports **only Windows systems**. Al
 It needs up to 1 GB RAM and 1 GB VRAM to run properly.  "High shadow quality" available in the game is designed for efficient, dedicated memory cards only. Please choose right graphics processor if you consider using this option. 
 
 # Gallery
-![1](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%209.png)
-![2](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%203.png)
-![3](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%205.png)
-![4](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%202.png)
-![5](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%204.png)
-![6](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%201.png)
-![7](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%206.png)
-![8](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%207.png)
-![9](https://github.com/robert-salata/the-wicket/blob/master/The%20Wicket%208.png)
+![1](images/The%20Wicket%209.png)
+![2](images/The%20Wicket%203.png)
+![3](images/The%20Wicket%205.png)
+![4](images/The%20Wicket%202.png)
+![5](images/The%20Wicket%204.png)
+![6](images/The%20Wicket%201.png)
+![7](images/The%20Wicket%206.png)
+![8](images/The%20Wicket%207.png)
+![9](images/The%20Wicket%208.png)
 
 

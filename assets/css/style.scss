@@ -5,6 +5,7 @@
 
 body {
     background: #000000;
+    padding-bottom: 0;
 }
 
 a {
@@ -12,7 +13,7 @@ a {
 }
 
 a:hover {
-    color: #9d0316;
+    color: #930000;
 }
 
 hr {
@@ -20,14 +21,20 @@ hr {
 }
 
 section, .wrapper {
-    max-width: 750px;
-    width: 750px;
+    max-width: 950px;
+    width: 950px;
 }
 
 .wrapper {
     background: #111111;
-    border-right: 2px solid #666666;
-    border-left: 2px solid #666666;
+    border-right: 4px solid #666666;
+    border-left: 4px solid #666666;
+    padding: 0 100px 80px 100px;
+}
+
+section {
+    margin-top: 66px;
+    margin-bottom: 0px;
 }
 
 section #title h1 {

@@ -18,7 +18,7 @@ The game is based on DirectX 11 engine and supports **only Windows systems**. Al
 It needs up to 1 GB RAM and 1 GB VRAM to run properly.  "High shadow quality" available in the game is designed for efficient, dedicated memory cards only. Please choose right graphics processor if you consider using this option. 
 
 # Gallery
-![1](images/TheWicket_9.png)
+![1](images/TheWicket_8.png)
 ![2](images/TheWicket_3.png)
 ![3](images/TheWicket_5.png)
 ![4](images/TheWicket_2.png)
@@ -26,6 +26,6 @@ It needs up to 1 GB RAM and 1 GB VRAM to run properly.  "High shadow quality" av
 ![6](images/TheWicket_1.png)
 ![7](images/TheWicket_6.png)
 ![8](images/TheWicket_7.png)
-![9](images/TheWicket_8.png)
+![9](images/TheWicket_9.png)
 
 
